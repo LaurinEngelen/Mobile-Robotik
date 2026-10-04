@@ -1,0 +1,30 @@
+# Kompilierte Binärdateien & Bytecode
+*.class
+bin/
+out/
+target/
+build/
+*.o
+*.obj
+*.exe
+
+# Logs & temporäre Dateien
+*.log
+
+# Betriebssystem-Metadaten
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# IDE-Dateien
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+
+# Bibliotheken/Archive in Imports explizit behalten falls vorhanden
+!Imports/**/*.jar
+!Imports/**/*.lib
