@@ -1,0 +1,3 @@
+include:
+  project: ros-coffe/coffe/submission-pipeline-config
+  file: moro-ci-config.yml
